@@ -48,7 +48,7 @@ CACHES = {
     'LOCATION': 'cache_table',
   }
 }
-
+SOCIALACCOUNT_ONLY = True
 # Google auth - production settings
 SOCIALACCOUNT_PROVIDERS = {
   'google': {

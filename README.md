@@ -36,7 +36,7 @@ Document Management | Annotation Editing & Tracking
   4. Invite team members
   5. Monitor progress and download results
 
-[See the full Project Setup Guide](docs/project_setup.md)
+[Check the wiki for detailed instructions](https://github.com/document-coder/document-coder/wiki)
 
 ### Annotating Documents
 
@@ -44,7 +44,7 @@ Document Management | Annotation Editing & Tracking
   2. Log in with your institutional credentials
   3. Start annotating your assigned documents
 
-[See the Annotator Guide](docs/annotator_guide.md)
+[Check the wiki for detailed instructions](https://github.com/document-coder/document-coder/wiki)
 
 ### For Administrators
 
